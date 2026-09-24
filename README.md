@@ -13,8 +13,8 @@ Web game interativo com foco educacional. O front-end consome diretamente a [Pok
 ## Preview
 
 <p align="center">
-  <img src="screenshots/mapa.png" width="48%" alt="Tela de exploração (mapa)" />
-  <img src="screenshots/bag.png" width="48%" alt="Tela da Bag (inventário)" />
+  <img src="https://github.com/carolinaruas-star/pokemon-journey/blob/front/screenshots/mapa.png" width="48%" alt="Tela de exploração (mapa)" />
+  <img src="https://github.com/carolinaruas-star/pokemon-journey/blob/front/screenshots/bag.png" width="48%" alt="Tela da Bag (inventário)"/>
 </p>
 
 ## Sumário
